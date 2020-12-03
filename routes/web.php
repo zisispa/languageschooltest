@@ -7,11 +7,8 @@ use App\Http\Controllers\GradeController;
 use App\Http\Controllers\StudentController;
 use App\Http\Controllers\TeacherController;
 use App\Http\Controllers\UserController;
-use App\Models\Student;
 
 Auth::routes();
-
-
 
 Route::middleware(['auth', 'role:1'])->group(function () {
     Route::resource('student', 'App\Http\Controllers\StudentController');

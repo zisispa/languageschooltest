@@ -67,7 +67,8 @@ class UserController extends Controller
     public function update(Request $request, User $user)
     {
 
-        $oldpassword = User::where('slug', $user->slug)->value('password');
+        //$oldpassword = User::where('slug', $user->slug)->value('password');
+        $oldpassword = User::where('id', $user->id)->value('password');
 
         if ($request->old_password) {
 

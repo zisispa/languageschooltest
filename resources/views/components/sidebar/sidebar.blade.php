@@ -91,6 +91,13 @@
             <div class="sidebar-brand-text mx-3">Συστημα Ανακοινωσεων</div>
         </a>
 
+        <!-- Display Student HomePage -->
+        <li class="nav-item">
+            <a class="nav-link" href="{{ route('student-homepage') }}">
+                <i class="fas fa-home"></i>
+                <span>Αρχική</span></a>
+        </li>
+
         <hr class="sidebar-divider my-0">
 
         <!-- Display Announcement -->
