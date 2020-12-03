@@ -1,8 +1,8 @@
-## About Laravel
+## About this Project
 
-This is a Student System Project implemented with Laravel.In this project can manage many points of a school. More specifically it can manage students, teachers, classes, announcements and grades.
+This is a Student System Project implemented with Laravel.In this project can manage many points of a school system. More specifically it can manage students, teachers, classes, announcements and grades.
 
-## Learning Laravel
+## Technologies
 
 This project is implemented with the following technologies:
 
