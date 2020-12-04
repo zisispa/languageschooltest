@@ -12,6 +12,6 @@ This project is implemented with the following technologies:
 
 ## Live
 
-The project is hosted in Heroku cloud platform.
+The project is hosted in [Heroku](https://dashboard.heroku.com/) cloud platform.
 
 -   [Live](http://languageschoolsystem.herokuapp.com/login).
