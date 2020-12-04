@@ -1,6 +1,6 @@
 ## About this Project
 
-This is a Student System Project implemented with Laravel.In this project can manage many points of a school system. More specifically it can manage students, teachers, classes, announcements and grades.
+This is a School and Classroom Management System, implemented with Laravel. Through the system, the user can manage teachers, classes, announcements and grades. The administrator can create teacher accounts and enable them to manage their classes and students, and put up grades and announcements. Students can log in and check their announcements and grades. They can also email teachers.
 
 ## Technologies
 
