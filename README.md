@@ -1,4 +1,4 @@
-![alt text](https://github.com/zisispa/movie-library-laravel/blob/master/language-school.PNG?raw=true)
+<!-- ![alt text](https://github.com/zisispa/movie-library-laravel/blob/master/language-school.PNG?raw=true) -->
 
 ## About this Project
 
