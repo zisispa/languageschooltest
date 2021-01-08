@@ -1,3 +1,5 @@
+![alt text](https://github.com/zisispa/movie-library-laravel/blob/master/language-school.PNG?raw=true)
+
 ## About this Project
 
 This is a School and Classroom Management System, implemented with Laravel. Through the system, the user can manage teachers, classes, announcements and grades. The administrator can create teacher accounts and enable them to manage their classes and students, and put up grades and announcements. Students can log in and check their announcements and grades. They can also email teachers.
